@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import { Navbar, NavbarBrand } from 'reactstrap';
 import Menu from './components/MenuComponent';
-import './App.css';
+import './styles/App.css';
 import { DISHES } from './shared/dishes';
 
 class App extends Component {
